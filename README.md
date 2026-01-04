@@ -1,0 +1,2 @@
+# rm3508_motor_s_type_speed_planning_dual_closed_loop_control
+RM3508电机双闭环控制，并使用S型速度规划，平滑速度变化
